@@ -1,5 +1,6 @@
 # future
-</Creada Con el Fin De Comprobar si Un enlace Existe o no existe />
+• Herramienta Creada Con El Fin de Comprobar Si un enlace es Existente O es Una Trampa
+
 •lpk
 
 # Instalacion
