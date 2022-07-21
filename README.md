@@ -9,13 +9,15 @@
 <li>
 git clone https://github.com/JONJK/future
 </li>
+
  <li>
+
 
 cd future
 </li>
 <li>
 chmod +x check.sh
-<br>
+
 </li>
 <li>
 bash check.sh
