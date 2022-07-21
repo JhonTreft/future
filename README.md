@@ -1,18 +1,27 @@
 # Future-Black
-• Herramienta Creada Con El Fin de Comprobar Si un enlace es Existente O es Una Trampa
+• <strong>  Herramienta Creada Con El Fin de Comprobar Si un enlace es Existente O es Una Trampa </strong>
 
-•lpk
+• <strong> lpk </strong>
 
 # Instalacion
-
+<b>
+<ul>
+<li>
 git clone https://github.com/JONJK/future
-
+</li>
+ <li>
+<br>
 cd future
-
+</li>
+<li>
 chmod +x check.sh
-
+<br>
+</li>
+<li>
 bash check.sh
+</li>
 
+</b></ul>
 ## Listo Thansk
 
 ## Fin
