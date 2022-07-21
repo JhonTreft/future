@@ -1,5 +1,5 @@
 # Check-Hide
-• <strong>  Herramienta Creada Con El Fin de Comprobar Si un enlace es Existente O es Una Trampa </strong>
+• <strong>  Herramienta Creada Con El Fin de Comprobar Si un enlace es Seguro O Malicioso </strong>
 
 • <strong> lpk </strong>
 
