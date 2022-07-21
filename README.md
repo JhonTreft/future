@@ -10,7 +10,7 @@
 git clone https://github.com/JONJK/future
 </li>
  <li>
-<br>
+
 cd future
 </li>
 <li>
